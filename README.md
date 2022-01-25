@@ -1,4 +1,8 @@
 ### Hi there 👋
+___
+[![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/deniz00)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-setiawan/)
 
 <!--
 **denizsetyawan/denizsetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
