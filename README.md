@@ -1,5 +1,7 @@
 ### Hi there 👋
 ___
+
+```javascript
   class Me {
       constructor(name, hobbies, city) {
           this.name = name;
@@ -17,6 +19,7 @@ ___
 
   const me = new Me(name, hobbies, city);
   console.log(me.introduce());
+  ```
   
   
   
