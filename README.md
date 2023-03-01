@@ -23,7 +23,13 @@ ___
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
   
   
-  
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
   
   
   
